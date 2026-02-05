@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_lyric_poetry_gender_dynamics",
+  "title": "The Unspun Verse",
+  "tagline": "In a world that demands silence, one woman dares to write her own song.",
+  "target_words": 70000,
+  "actual_words": 79329,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Conflict Between Public Duty and Private Voice",
+    "Poetry as Subversion and Secret Language",
+    "The Commodification of Women in Marriage Alliances",
+    "The Domestic Sphere as a Site of Quiet Rebellion"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Tyrian and the Laconic",
+      "words": 3300
+    },
+    {
+      "ch": 2,
+      "title": "The Dream of Light and Ash",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Wool of Virtue",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Groom's Arrival",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "A Library in Shadow",
+      "words": 3400
+    },
+    {
+      "ch": 6,
+      "title": "The Pronuba's Whisper",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Feast of Appearances",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The Hearth's Farewell",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "Threshold",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The New Lararium",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Marcus's Ledger",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "A Stylus in the Dark",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Subura Secret",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "Sappho's Fragment",
+      "words": 3600
+    },
+    {
+      "ch": 15,
+      "title": "Lucius's Discovery",
+      "words": 3400
+    },
+    {
+      "ch": 16,
+      "title": "The Fuller's Warning",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Aelia's Catullus",
+      "words": 3800
+    },
+    {
+      "ch": 18,
+      "title": "The Emperor's Ear",
+      "words": 3500
+    },
+    {
+      "ch": 19,
+      "title": "Choice of Cloths",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Virgil",
+      "words": 3400
+    },
+    {
+      "ch": 21,
+      "title": "Confrontation at the Tablinum",
+      "words": 3700
+    },
+    {
+      "ch": 22,
+      "title": "The River Stone Votive",
+      "words": 3200
+    },
+    {
+      "ch": 23,
+      "title": "The Unwoven Tunic",
+      "words": 3600
+    },
+    {
+      "ch": 24,
+      "title": "Her Own Laconic Verse",
+      "words": 3900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Aelia secretly teaches another young woman in the household to read lyric poetry, using the rhythms of weaving as a code.",
+      "Create a subplot from Lucius's perspective: he discovers a political threat that mirrors Aelia's personal rebellion, forcing him to question his own rigid worldview.",
+      "Imagine a clandestine literary salon Aelia discovers, run by freedwomen in the Subura. Detail a meeting where a new, dangerous poem is shared.",
+      "Write the 'lost' poem Aelia writes about her marriage, using the metaphor of the Tyrian purple dye—its beauty, its cost, and its stain."
+    ],
+    "technical": [
+      "Build a text analysis tool that compares the linguistic patterns in Aelia's internal monologues (provided in seed chapters) with actual Catullan verse, highlighting thematic and metric echoes.",
+      "Design an interactive map of a Roman domus (house) keyed to chapters, where clicking on rooms (tablinum, lararium, etc.) reveals excerpts of text where that space is charged with gender/power dynamics."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Sappho of Lesbos (for lyric intimacy and female voice)",
+      "Tacitus (for political tension and the psychology of repression)",
+      "Charlotte Brontë (for the interior life of a constrained woman)",
+      "James Joyce (for stream of consciousness and the subversion of epic tradition)"
+    ]
+  },
+  "cover_prompt": "A young noblewoman in a classical Roman stola, her back to an opulent marble courtyard, secretly inscribing poetry with a stylus onto a wax tablet concealed in her lap, while a formal betrothal ceremony unfolds in the blurred background, her act of quiet defiance the only point of sharp focus. The scene is set at dusk in a lavish domus atrium, with hanging ivy and a faint, ghostly echo of Sappho's fragmented verses subtly etched into the texture of the marble columns and mosaic floor, suggesting a hidden language beneath the surface of sanctioned life. In the atmospheric style of John William Waterhouse, with the poetic realism and mythological gravity of Lawrence Alma-Tadema's classical interiors. Book cover framing, centered composition with a dramatic low-angle view that elevates the subject, making her private act monumental. Chiaroscuro lighting with a single shaft of warm, golden-hour light illuminating her hands and tablet, cutting through the cool, oppressive blue shadows of the domestic sphere, color palette of deep imperial purples, muted gold, marble white, and twilight azure. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
