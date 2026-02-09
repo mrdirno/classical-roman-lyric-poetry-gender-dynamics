@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The marble was cool and unyielding against my cheek. A thin line of drool, warm and shameful, connected my face to the polished surface of the writing desk. I jerked upright, the scroll beneath my arm crinkling in protest. Late afternoon light, honey-thick and heavy with dust, slanted through the high window of my father’s tablinum. It illuminated the ghost of my own breath on the dark wood.
+Callimachus says a woman should be silent. My stylus scratches the wax, carving my name where his words end: Sulpicia.
+
 
 “Sleeping among the accounts again, Aelia? A fitting pillow for your ambitions.”
 
